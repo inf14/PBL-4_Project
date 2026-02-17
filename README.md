@@ -34,7 +34,7 @@ Agent trajectories adapt to environmental risk and coverage decay, demonstrating
 
 ---
 
-## 🧠 Decision Architecture (High-Level)
+## 🧠 Decision Architecture
 
 1. Partial state perception  
 2. Rule-based feasibility filtering  
